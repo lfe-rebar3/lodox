@@ -16,6 +16,11 @@
 [docs]: https://lfe-rebar3.github.io/lodox
 [license badge]: https://img.shields.io/badge/license-MIT-blue.svg
 
+---
+
+**DEPRECATED**: LFE users should migrate to [ldoc](https://github.com/lfex/ldoc) (a clone of the more maintained cljdoc)
+
+---
 
 _Like [Codox] for [LFE]._
 Check out the [self-generated documentation][docs].
